@@ -1,3 +1,4 @@
-# documentation
-link to the official C.O.S.S. Public Trading API documentation: [https://api.coss.io/v1/spec](https://api.coss.io/v1/spec)
+# COSS exchange Trading API documentation
+
+Access the official COSS Public Trading API documentation: [https://coss.docs.apiary.io](https://coss.docs.apiary.io)
 
